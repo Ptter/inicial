@@ -1,5 +1,5 @@
 # Personagens
 
-![./hamster.jpg](Hamster)
+![](./hamster.jpg)
 
 Este é um Repositorio de testes
